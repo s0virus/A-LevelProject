@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Generated files
+*.cache
+*.pdb
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Generated files
+*.cache
+*.pdb
+
+# Operating system files
+.DS_Store
+Thumbs.db
+installed_packages/
